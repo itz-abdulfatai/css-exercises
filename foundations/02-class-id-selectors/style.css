@@ -1,0 +1,22 @@
+.color {
+    background-color: pink;
+}
+* {
+    font-family: verdana, 'dejavu sans', sans-serif;
+}
+
+#unique1 {
+    color: blue;
+    font-size: larger;
+
+}
+
+.bigsize {
+    font-size: larger;
+}
+
+#unique2 {
+    font-weight: bolder;
+    background-color: lightgreen;
+    font-size: large;
+}
